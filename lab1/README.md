@@ -2,7 +2,7 @@
 Project could be started using following commands:
 
     cd lab1; 
-    man spring-boot:run
+    mvn spring-boot:run
 
 ### Author & contact
 Author: Mateusz Brycki
