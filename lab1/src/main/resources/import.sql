@@ -1,0 +1,2 @@
+INSERT INTO USER_ACCOUNT(USERNAME, MAIL, PASSWORD, IS_ACTIVE) VALUES('admin', 'admin@admin.com', 'admin', true);
+INSERT INTO USER_ACCOUNT(USERNAME, MAIL, PASSWORD, IS_ACTIVE) VALUES('test', 'test@test.com', 'test', false);
